@@ -10,4 +10,7 @@ export KERNEL=kernel7
 export ARCH=arm
 export CROSS_COMPILE=arm-linux-gnueabihf-
 
+# Install Configuration
 export MY_OUT_DIR=$MY_TOP_DIR/out
+export MY_BOOT_DIR=/media/ttaem/boot
+export MY_ROOTFS_DIR=/media/ttaem/rootfs
