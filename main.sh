@@ -17,3 +17,6 @@ export MY_ROOTFS_DIR=/media/ttaem/rootfs
 
 
 export KERNEL_DIR=$MY_TOP_DIR/linux
+
+
+export MY_DEPLOY_DIR="pi@192.168.4.125:/home/pi/work"
